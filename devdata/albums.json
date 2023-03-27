@@ -1,0 +1,35 @@
+[
+    {
+        "_id": "6c8a34ed14eb5c17645c1108",
+        "title": "DJ OP DOT",
+        "headLine": "Party Groove Mix",
+        "imgUri": "",
+        "songs" : [
+            "6c8a34ed14eb5c17645c9108",
+            "6c8a34ed14eb5c17645c9134",
+            "6c8a34ed14eb5c17645c916a",
+            "6c8a34ed14eb5c17645c919b",
+            "6c8a34ed14eb5c17645c9145"
+        ]
+    },
+    {
+        "_id": "6c8a34ed14eb5c17645c110a",
+        "title": "DJ Salam",
+            "headLine": "",
+            "imgUri": "https://i0.wp.com/www.val9ja.com/wp-content/uploads/2020/06/dj-salam-1-1.jpg?fit=700%2C701&ssl=1",
+            "songs" : [
+             "6c8a34ed14eb5c17845c9165",
+             "6c8a34ed14eb5c17646a9145"
+            ]
+            
+    },
+    {
+        "_id": "6c8a43ed14eb4c17645c110a",
+        "title": "DJ Big N",
+        "headLine": "Alternate Sound",
+        "imgUri": "https://i0.wp.com/www.val9ja.com/wp-content/uploads/2020/06/Alternate-Sound-and-DJ-Big-N-1.jpg?fit=819%2C1024&ssl=1",
+        "songs" : [
+            "6c8a34ed14eb5c17646a918b"
+        ]
+        }
+]

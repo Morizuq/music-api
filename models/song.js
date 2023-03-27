@@ -6,13 +6,14 @@ const songSchema = new mongoose.Schema({
     required: [true, "Album category must have a title"],
   },
 
-  imageUri: String,
+  imgUri: String,
 
   uri: String,
 
+  playUri: String,
+  
   artist: {
     type: String,
-    maxLength: [20, "Name cannot be more than 20 characters"],
     minLength: [3, "Name cannot be less than 3 characters"],
   },
 });
